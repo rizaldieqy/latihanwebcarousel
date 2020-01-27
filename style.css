@@ -1,0 +1,60 @@
+body{
+    background-color: #dddddd;
+}
+
+#nvb {
+    background-color: black;
+}
+
+#caro1 {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+#text1{
+    margin-top: -380px;
+}
+
+#text2{
+    margin-top: -380px;
+}
+
+#text3{
+    margin-top: -380px;
+}
+
+#text4{
+    margin-top: 400px;
+}
+
+#morbi {
+    background-image: url(img/aurora6.jpg);
+    background-color: rgba(0, 0, 0, 0.5);
+    background-attachment: fixed;
+    color: white;
+}
+
+.footer {
+    padding-bottom: 30px;
+    background-color: black;
+    color: grey;
+}
+
+#tw {
+    margin-top: 50px;
+    color: grey;
+}
+
+#fb {
+    margin-top: 50px;
+    color: grey;
+}
+
+#ig {
+    margin-top: 50px;
+    color: grey;
+}
+
+#ml {
+    margin-top: 50px;
+    color: grey;
+}
