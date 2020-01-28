@@ -2,8 +2,8 @@ body{
     background-color: #dddddd;
 }
 
-#nvb {
-    background-color: black;
+#nvb p {
+    color: white;
 }
 
 #caro1 {
@@ -28,6 +28,7 @@ body{
 
 #morbi {
     background-image: url(img/aurora6.jpg);
+    background-repeat: none;
     background-color: rgba(0, 0, 0, 0.5);
     background-attachment: fixed;
     color: white;
